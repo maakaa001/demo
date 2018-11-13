@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
   "accountId": "1421",
   "programs": [
     {
@@ -26,4 +28,6 @@
       "lastActivityTimestamp": 1541180968
     }
   ]
+}
+    ]
 }
